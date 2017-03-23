@@ -1,6 +1,6 @@
 ## Avajs bug report
 
-See [https://github.com/avajs/ava/issues/123](https://github.com/avajs/ava/issues/123)
+See [https://github.com/avajs/ava/issues/1319](https://github.com/avajs/ava/issues/1319)
 
 ### Testing
 
