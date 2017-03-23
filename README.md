@@ -4,18 +4,17 @@ See [https://github.com/avajs/ava/issues/1319](https://github.com/avajs/ava/issu
 
 ### Testing
 
-1. Clone the repo
+**1. Clone the repo**
   ```
   git clone https://github.com/wasting-light/avajs-bug-report-x89
   ```
 
-2. Install dependencies
-
+**2. Install dependencies**
   ```
   npm install
   ```
 
-3. Testing
+**3. Testing**
 
   If the tests are inside `test` folder, it works:
   ```
