@@ -1,0 +1,16 @@
+{
+  "name": "avajs-bug-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "working": "ava './test/**/*.js'",
+    "not-working": "ava './not-working/**/*.js'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ava": "0.18.2",
+    "bluebird": "3.5.0"
+  }
+}
